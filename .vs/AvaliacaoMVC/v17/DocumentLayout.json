@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\AspMVC\\AvaliacaoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F23FCD2-43EB-489F-AE79-A4AB9F27848D}|AvaliacaoMVC\\AvaliacaoMVC.csproj|c:\\users\\marco\\onedrive\\\u00E1rea de trabalho\\aspmvc\\avaliacaomvc\\avaliacaomvc\\views\\mensalidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F23FCD2-43EB-489F-AE79-A4AB9F27848D}|AvaliacaoMVC\\AvaliacaoMVC.csproj|solutionrelative:avaliacaomvc\\views\\mensalidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F23FCD2-43EB-489F-AE79-A4AB9F27848D}|AvaliacaoMVC\\AvaliacaoMVC.csproj|c:\\users\\marco\\onedrive\\\u00E1rea de trabalho\\aspmvc\\avaliacaomvc\\avaliacaomvc\\views\\alunoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F23FCD2-43EB-489F-AE79-A4AB9F27848D}|AvaliacaoMVC\\AvaliacaoMVC.csproj|solutionrelative:avaliacaomvc\\views\\alunoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\AspMVC\\AvaliacaoMVC\\AvaliacaoMVC\\Views\\Alunoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "AvaliacaoMVC\\Views\\Alunoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\AspMVC\\AvaliacaoMVC\\AvaliacaoMVC\\Views\\Alunoes\\Index.cshtml",
+              "RelativeToolTip": "AvaliacaoMVC\\Views\\Alunoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:56:29.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\AspMVC\\AvaliacaoMVC\\AvaliacaoMVC\\Views\\Mensalidades\\Index.cshtml",
+              "RelativeDocumentMoniker": "AvaliacaoMVC\\Views\\Mensalidades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\\u00C1rea de Trabalho\\AspMVC\\AvaliacaoMVC\\AvaliacaoMVC\\Views\\Mensalidades\\Index.cshtml",
+              "RelativeToolTip": "AvaliacaoMVC\\Views\\Mensalidades\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:52:54.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
